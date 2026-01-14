@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "^_^",
+  "base_artist": "Chanmina",
+  "createdAt": "2026-01-14T02:17:50.129168Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "^_^",
+      "artist": "ちゃんみな",
+      "has_synced": false,
+      "path": "select/pl_01_^_^_ちゃんみな.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "^_^",
+      "artist": "ちゃんみな",
+      "has_synced": false,
+      "path": "select/pl_02_^_^_ちゃんみな.txt"
+    }
+  ]
+}
